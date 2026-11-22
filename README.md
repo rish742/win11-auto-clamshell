@@ -26,10 +26,11 @@ It dynamically toggles your laptop's lid-close power behavior based on whether a
 
 ```text
 win11-auto-clamshell/
-├── AutoLidAction.cs     # C# source code (Recommended: ~5 MB RAM)
-├── AutoLidAction.ps1    # Pure PowerShell alternative (~35 MB RAM, no compile step)
-├── LICENSE              # MIT License
-└── README.md            # Setup & usage documentation
+├── AutoLidAction.cs                        # C# source code (Recommended: ~5 MB RAM)
+├── AutoLidAction.ps1                       # Pure PowerShell alternative (~35 MB RAM, no compile step)
+├── Windows_11_Auto_Lid_Monitor_Guide.pdf   # Step-by-step setup & reference guide
+├── LICENSE                                 # MIT License
+└── README.md                               # Setup & usage documentation
 ```
 
 ---
