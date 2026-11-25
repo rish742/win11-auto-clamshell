@@ -30,7 +30,6 @@ It switches the laptop's lid-close action according to whether an external monit
 win11-auto-clamshell/
 ├── AutoLidAction.cs                          # C# source code (v3)
 ├── Install-AutoLidAction.ps1                 # Compiles the .exe and registers the logon task
-├── AutoLidAction.ps1                         # Older v1 pure-PowerShell alternative (does not have the v3 fixes)
 ├── Windows_11_Auto_Lid_Monitor_Guide_v3.pdf  # Full setup, power-settings and troubleshooting guide
 ├── LICENSE                                   # MIT License
 └── README.md
